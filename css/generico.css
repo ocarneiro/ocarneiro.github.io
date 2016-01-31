@@ -1,0 +1,10 @@
+﻿.full-width{width:100%}
+.centralizado{text-align:center}
+
+hr.interroga{padding:0;border:0;border-top:solid 5px;text-align:center;max-width:250px;margin:25px auto 30px}
+hr.interroga:after{content:"\f128";font-family:FontAwesome;display:inline-block;position:relative;top:-.8em;font-size:2em;padding:0 .25em}
+
+hr.codigo{padding:0;border:0;border-top:solid 5px;text-align:center;max-width:250px;margin:25px auto 30px}
+hr.codigo:after{content:"\f0f6";font-family:FontAwesome;display:inline-block;position:relative;top:-.8em;font-size:2em;padding:0 .25em}
+
+.grande{font-size:2em}

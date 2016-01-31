@@ -1,0 +1,21 @@
+/*!
+ * Sobrio - Azul Indigo, Verde Oliva, Cinza
+ * versão Marrom, Bege, Branco, Azul
+ * Homepage: http://carneiro.blog.br
+ * Copyright 2014 Otavio Carneiro
+ * Licensed under Apache 2.0 - http://www.apache.org/licenses/LICENSE-2.0
+ * Colors picked using http://colorschemedesigner.com/
+ *
+  */ 
+.escuro {background-color: #173026} /* verde oliva */
+.claro {background-color: #376150; color:#E0E0E0 ;} /* verde claro */
+.neutro {background-color: #E0E0E0} /* branco */
+.colorido {background-color: #374961} /* azul */
+
+.btn {border: 0px}
+
+hr.interroga{border-color:#E0E0E0}
+hr.interroga:after{background-color:#376150;color:#E0E0E0} /* fundo bege */
+
+hr.codigo{border-color:#2c3e50}
+hr.codigo:after{background-color:#FFF3E4;color:#2c3e50} /* fundo branco */
