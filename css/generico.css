@@ -8,3 +8,4 @@ hr.codigo{padding:0;border:0;border-top:solid 5px;text-align:center;max-width:25
 hr.codigo:after{content:"\f0f6";font-family:FontAwesome;display:inline-block;position:relative;top:-.8em;font-size:2em;padding:0 .25em}
 
 .grande{font-size:2em}
+.meio{margin: auto;}
